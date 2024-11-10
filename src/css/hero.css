@@ -5,4 +5,6 @@
 .hero-title {
   font-size: 25px;
   color: pink;
+  text-align: center;
+  width: 100px;
 }
